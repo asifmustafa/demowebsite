@@ -1,0 +1,5 @@
+snipets
+01 sgsc (generic section code)
+02 sgh (generic heading)
+03 jdrm (jQuery Document Ready Method)
+04 jwlm (jQuery Window Load Method)

@@ -1,0 +1,3 @@
+ul>li*5
+
+div#page>div.logo+ul#navigation>li*5

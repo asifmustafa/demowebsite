@@ -1,0 +1,19 @@
+/* Basic CSS Selectors Example */
+
+h1{
+    color: green;
+    font-size: 45px;
+}
+
+p{
+    background-color: pink;
+    color: white;
+    font-size: 20px
+}
+
+div p{
+    background-color: red;
+    color: black;
+    font-size: 40px
+    
+}

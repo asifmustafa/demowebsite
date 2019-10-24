@@ -1,0 +1,12 @@
+/* CSS classes and ids Examples  */
+
+#main {
+    color: pink;
+    font-size: 25px;
+}
+
+.content{
+    color: black;
+    background-color: pink;
+    font-size: 20px;
+}
